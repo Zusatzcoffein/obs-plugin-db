@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "id": "move-transition",
+      "name": "Move Transition",
+      "author": "Exeldro",
+      "version": "3.0.1",
+      "download_url": "https://github.com/exeldro/obs-move-transition/releases/latest/download/windows.zip",
+      "category": "Transitions"
+    }
+  ]
+}
