@@ -15,6 +15,14 @@
       "version": "5.4.2",
       "download_url": "https://github.com/obsproject/obs-websocket/releases/download/5.4.2/obs-websocket-5.4.2-windows-x64.zip",
       "category": "Remote Control"
+    },
+    {
+      "id": "streamfx",
+      "name": "StreamFX",
+      "author": "Xaymar",
+      "version": "0.12.0",
+      "download_url": "https://github.com/Xaymar/obs-StreamFX/releases/download/0.12.0-beta/StreamFX-Windows-x86_64-Installer.zip",
+      "category": "Effects & Filters"
     }
   ]
 }
