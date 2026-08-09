@@ -7,6 +7,7 @@
       "version": "3.2.1",
       "download_url": "https://github.com/exeldro/obs-move-transition/releases/download/3.2.1/move-transition-3.2.1-windows.zip",
       "category": "Transitions"
+      "description": "Test Beschreibung"
     },
     {
       "id": "obs-websocket",
