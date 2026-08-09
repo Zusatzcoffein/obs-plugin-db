@@ -65,11 +65,11 @@
       "category": "Sources"
     },
     {
-      "id": "aitum-multistream",
-      "name": "Aitum Multistream",
+      "id": "aitum-multistream-windows",
+      "name": "Aitum Multistream Windows",
       "author": "Aitum",
-      "version": "1.4.0",
-      "download_url": "https://github.com/Aitum/obs-multistream/releases/download/v1.4.0/obs-multistream-1.4.0-windows-x64.zip",
+      "version": "1.0.8",
+      "download_url": "https://github.com/Aitum/obs-aitum-multistream/releases/download/1.0.8/aitum-multistream-windows.zip",
       "category": "Streaming"
     },
     {
