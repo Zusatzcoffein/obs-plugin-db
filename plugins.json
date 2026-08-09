@@ -17,12 +17,108 @@
       "category": "Remote Control"
     },
     {
-      "id": "streamfx",
-      "name": "StreamFX",
-      "author": "Xaymar",
-      "version": "0.12.0",
-      "download_url": "https://github.com/Xaymar/obs-StreamFX/releases/download/0.12.0-beta/StreamFX-Windows-x86_64-Static.zip",
+      "id": "advanced-scene-switcher",
+      "name": "Advanced Scene Switcher",
+      "author": "WarmUpStudy",
+      "version": "1.23.1",
+      "download_url": "https://github.com/WarmUpStudy/Advanced-Scene-Switcher/releases/download/1.23.1/advanced-scene-switcher-windows-x64.zip",
+      "category": "Automation"
+    },
+    {
+      "id": "obs-backgroundremoval",
+      "name": "Background Removal",
+      "author": "royshil",
+      "version": "1.2.1",
+      "download_url": "https://github.com/royshil/obs-backgroundremoval/releases/download/v1.2.1/obs-backgroundremoval-1.2.1-windows-x64.zip",
       "category": "Effects & Filters"
+    },
+    {
+      "id": "source-record",
+      "name": "Source Record",
+      "author": "Exeldro",
+      "version": "0.4.0",
+      "download_url": "https://github.com/exeldro/obs-source-record/releases/download/0.4.0/obs-source-record-0.4.0-windows-x64.zip",
+      "category": "Recording"
+    },
+    {
+      "id": "audio-monitor",
+      "name": "Audio Monitor",
+      "author": "Exeldro",
+      "version": "0.6.0",
+      "download_url": "https://github.com/exeldro/obs-audio-monitor/releases/download/0.6.0/obs-audio-monitor-0.6.0-windows-x64.zip",
+      "category": "Audio"
+    },
+    {
+      "id": "downstream-keyer",
+      "name": "Downstream Keyer",
+      "author": "Exeldro",
+      "version": "0.2.1",
+      "download_url": "https://github.com/exeldro/obs-downstream-keyer/releases/download/0.2.1/obs-downstream-keyer-0.2.1-windows-x64.zip",
+      "category": "Overlays"
+    },
+    {
+      "id": "source-clone",
+      "name": "Source Clone",
+      "author": "Exeldro",
+      "version": "0.1.3",
+      "download_url": "https://github.com/exeldro/obs-source-clone/releases/download/0.1.3/obs-source-clone-0.1.3-windows-x64.zip",
+      "category": "Sources"
+    },
+    {
+      "id": "aitum-multistream",
+      "name": "Aitum Multistream",
+      "author": "Aitum",
+      "version": "1.4.0",
+      "download_url": "https://github.com/Aitum/obs-multistream/releases/download/v1.4.0/obs-multistream-1.4.0-windows-x64.zip",
+      "category": "Streaming"
+    },
+    {
+      "id": "aitum-vertical",
+      "name": "Aitum Vertical",
+      "author": "Aitum",
+      "version": "1.5.2",
+      "download_url": "https://github.com/Aitum/obs-vertical/releases/download/v1.5.2/obs-vertical-1.5.2-windows-x64.zip",
+      "category": "Vertical Video"
+    },
+    {
+      "id": "obs-ndi",
+      "name": "OBS NDI",
+      "author": "Palakis",
+      "version": "4.14.0",
+      "download_url": "https://github.com/Palakis/obs-ndi/releases/download/4.14.0/obs-ndi-4.14.0-Windows.zip",
+      "category": "Network"
+    },
+    {
+      "id": "spectralizer",
+      "name": "Spectralizer",
+      "author": "univrsal",
+      "version": "1.4.3",
+      "download_url": "https://github.com/univrsal/spectralizer/releases/download/1.4.3/spectralizer-1.4.3-Windows.zip",
+      "category": "Audio Visualizer"
+    },
+    {
+      "id": "obs-gstreamer",
+      "name": "GStreamer",
+      "author": "Palakis",
+      "version": "0.3.3",
+      "download_url": "https://github.com/Palakis/obs-gstreamer/releases/download/0.3.3/obs-gstreamer-0.3.3-Windows.zip",
+      "category": "Sources"
+    },
+    {
+      "id": "tuna",
+      "name": "Tuna",
+      "author": "univrsal",
+      "version": "1.7.3",
+      "download_url": "https://github.com/univrsal/tuna/releases/download/1.7.3/tuna-1.7.3-Windows.zip",
+      "category": "Music"
+    },
+    {
+      "id": "obs-teleport",
+      "name": "OBS Teleport",
+      "author": "fzwoch",
+      "version": "0.6.0",
+      "download_url": "https://github.com/fzwoch/obs-teleport/releases/download/0.6.0/obs-teleport-0.6.0-windows-x64.zip",
+      "category": "Network"
     }
   ]
 }
