@@ -7,6 +7,14 @@
       "version": "3.0.1",
       "download_url": "https://github.com/exeldro/obs-move-transition/releases/latest/download/windows.zip",
       "category": "Transitions"
+    },
+    {
+      "id": "obs-websocket",
+      "name": "OBS WebSocket",
+      "author": "OBS Project",
+      "version": "5.4.2",
+      "download_url": "https://github.com/obsproject/obs-websocket/releases/latest/download/obs-websocket-5.4.2-windows-x64.zip",
+      "category": "Remote Control"
     }
   ]
 }
